@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 
 
-||doubleclick.com^$third-party
+@@doubleclick.com^$third-party
 ||doubleclick.net/*/ch_news.com/$third-party
 ||doubleclick.net/*/pfadx/lin.$third-party
 ||doubleclick.net/ad/$third-party
