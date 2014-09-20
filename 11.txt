@@ -2,9 +2,9 @@
 
 
 @@||doubleclick.com^$third-party
-||doubleclick.net/*/ch_news.com/$third-party
-||doubleclick.net/*/pfadx/lin.$third-party
-||doubleclick.net/ad/$third-party
+@@||doubleclick.net/*/ch_news.com/$third-party
+@@||doubleclick.net/*/pfadx/lin.$third-party
+@@||doubleclick.net/ad/$third-party
 ||doubleclick.net/adi/$~object-subrequest,third-party
 ||doubleclick.net/adj/$~object-subrequest,third-party
 ||doubleclick.net/adj/*.collegehumor/sec=videos_originalcontent;$third-party
