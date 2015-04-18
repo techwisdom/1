@@ -1,3 +1,6 @@
+# Adblock Plus preferences
+version=4
+
 [Subscription]
 url=~user~532044
 title=MyCustomEasyList
