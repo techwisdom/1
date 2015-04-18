@@ -1,0 +1,10 @@
+[Subscription]
+url=~user~532044
+title=MyCustomEasyList
+
+[Subscription filters]
+@@|https://www.google.com/url?$document
+@@|http://www.dice.com/|$document
+@@||dice.com^$document
+@@||glassdoor.com^$document
+@@||shop5.frys.com^$document
