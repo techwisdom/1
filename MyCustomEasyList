@@ -6,6 +6,7 @@
 @@||glassdoor.com^$document
 @@||shop5.frys.com^$document
 
+adweek.com##.ad
 adweek.com##.masthead.masthead-inline
 facebook.com##DIV#sidebar_ads
 thefind.com##DIV#tf_page_ad_content_bottom
